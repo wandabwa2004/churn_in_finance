@@ -1,6 +1,6 @@
 # Equity Bank Churn Simulation & Prediction
 
-This project generates a realistic synthetic dataset for customer churn analysis in the banking sector, specifically modeled for Equity Bank. It includes configurable simulation parameters, modular data generation, and utilities for downstream machine learning tasks—including a full churn prediction pipeline.
+This project generates a realistic synthetic dataset for customer churn analysis in the banking sector, specifically modeled for a hypothetical African bank called Equity Bank. It includes configurable simulation parameters, modular data generation, and utilities for downstream machine learning tasks—including a full churn prediction pipeline.
 
 ---
 
@@ -35,9 +35,8 @@ conda env create -f environment.yml
 ### 3. Activate the environment
 
 ```bash
-conda activate <your-environment-name>
+conda activate docs_39
 ```
-*(Replace `<your-environment-name>` with the name specified in `environment.yml`.)*
 
 ### 4. Update the environment (if you add new packages)
 
